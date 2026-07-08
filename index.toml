@@ -100,7 +100,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-datapacks.pw.toml"
-hash = "6dd6a76f84287f407c07e584f717a9ac872da9bf3a1e639209c2cce971dd52ba"
+hash = "68261f4d273220a329cfeb815d345179be1ca3c0ec9c84ec31fbba62084b700e"
 metafile = true
 
 [[files]]
@@ -151,3 +151,99 @@ hash = "7b7a214968d40c36840b2db3745e361a96691ed05cb5109779ff65ba0177ec7c"
 [[files]]
 file = "required_datapacks/rails/pack.mcmeta"
 hash = "868395b7c58f5bb0d9231a3ea460c9ca0a854cd56cd3abd286888eecca17ce52"
+
+[[files]]
+file = "resourcepacks/awebo/assets/minecraft/optifine/cem/chicken.jem"
+hash = "eb39cfd3d4ffd7c0d7ed865dd4596ae9904c2c04ad8fc50a27b526e3f18facc9"
+
+[[files]]
+file = "resourcepacks/awebo/assets/minecraft/optifine/cem/cold_chicken.jem"
+hash = "eb39cfd3d4ffd7c0d7ed865dd4596ae9904c2c04ad8fc50a27b526e3f18facc9"
+
+[[files]]
+file = "resourcepacks/awebo/assets/minecraft/optifine/cem/warm_chicken.jem"
+hash = "eb39cfd3d4ffd7c0d7ed865dd4596ae9904c2c04ad8fc50a27b526e3f18facc9"
+
+[[files]]
+file = "resourcepacks/awebo/assets/minecraft/sounds/mob/chicken/hurt1.ogg"
+hash = "25836f3ed28005e7cab73cb9ad6b1037efdee27b3c7e1c2a93e9fe355bf987c4"
+
+[[files]]
+file = "resourcepacks/awebo/assets/minecraft/sounds/mob/chicken/hurt2.ogg"
+hash = "25836f3ed28005e7cab73cb9ad6b1037efdee27b3c7e1c2a93e9fe355bf987c4"
+
+[[files]]
+file = "resourcepacks/awebo/assets/minecraft/sounds/mob/chicken/picky/ambient1.ogg"
+hash = "32c2ad90bac3c8f26c33aced9fcea5d90a72d2848387d4609ebf1eb68379f6f9"
+
+[[files]]
+file = "resourcepacks/awebo/assets/minecraft/sounds/mob/chicken/picky/ambient2.ogg"
+hash = "25836f3ed28005e7cab73cb9ad6b1037efdee27b3c7e1c2a93e9fe355bf987c4"
+
+[[files]]
+file = "resourcepacks/awebo/assets/minecraft/sounds/mob/chicken/picky/ambient3.ogg"
+hash = "2e3e117c857bbb0bca1439e7a6b3803dd31af2e7d636cbe3a92edce6e5f263ee"
+
+[[files]]
+file = "resourcepacks/awebo/assets/minecraft/sounds/mob/chicken/picky/ambient4.ogg"
+hash = "32c2ad90bac3c8f26c33aced9fcea5d90a72d2848387d4609ebf1eb68379f6f9"
+
+[[files]]
+file = "resourcepacks/awebo/assets/minecraft/sounds/mob/chicken/picky/ambient5.ogg"
+hash = "25836f3ed28005e7cab73cb9ad6b1037efdee27b3c7e1c2a93e9fe355bf987c4"
+
+[[files]]
+file = "resourcepacks/awebo/assets/minecraft/sounds/mob/chicken/picky/ambient6.ogg"
+hash = "2e3e117c857bbb0bca1439e7a6b3803dd31af2e7d636cbe3a92edce6e5f263ee"
+
+[[files]]
+file = "resourcepacks/awebo/assets/minecraft/sounds/mob/chicken/picky/ambient7.ogg"
+hash = "32c2ad90bac3c8f26c33aced9fcea5d90a72d2848387d4609ebf1eb68379f6f9"
+
+[[files]]
+file = "resourcepacks/awebo/assets/minecraft/sounds/mob/chicken/picky/ambient8.ogg"
+hash = "25836f3ed28005e7cab73cb9ad6b1037efdee27b3c7e1c2a93e9fe355bf987c4"
+
+[[files]]
+file = "resourcepacks/awebo/assets/minecraft/sounds/mob/chicken/picky/hurt1.ogg"
+hash = "25836f3ed28005e7cab73cb9ad6b1037efdee27b3c7e1c2a93e9fe355bf987c4"
+
+[[files]]
+file = "resourcepacks/awebo/assets/minecraft/sounds/mob/chicken/picky/hurt2.ogg"
+hash = "25836f3ed28005e7cab73cb9ad6b1037efdee27b3c7e1c2a93e9fe355bf987c4"
+
+[[files]]
+file = "resourcepacks/awebo/assets/minecraft/sounds/mob/chicken/picky/hurt3.ogg"
+hash = "25836f3ed28005e7cab73cb9ad6b1037efdee27b3c7e1c2a93e9fe355bf987c4"
+
+[[files]]
+file = "resourcepacks/awebo/assets/minecraft/sounds/mob/chicken/say1.ogg"
+hash = "32c2ad90bac3c8f26c33aced9fcea5d90a72d2848387d4609ebf1eb68379f6f9"
+
+[[files]]
+file = "resourcepacks/awebo/assets/minecraft/sounds/mob/chicken/say2.ogg"
+hash = "25836f3ed28005e7cab73cb9ad6b1037efdee27b3c7e1c2a93e9fe355bf987c4"
+
+[[files]]
+file = "resourcepacks/awebo/assets/minecraft/sounds/mob/chicken/say3.ogg"
+hash = "2e3e117c857bbb0bca1439e7a6b3803dd31af2e7d636cbe3a92edce6e5f263ee"
+
+[[files]]
+file = "resourcepacks/awebo/assets/minecraft/textures/entity/chicken/chicken_cold.png"
+hash = "60ab2e58abc5dacdbb7af20a3d70c676aadca315b20a621f55ce9f73c221d8fe"
+
+[[files]]
+file = "resourcepacks/awebo/assets/minecraft/textures/entity/chicken/chicken_temperate.png"
+hash = "d7b759f947a7978f3e8eaa22118a565c2737d793d8b31c083a83d94823f36ada"
+
+[[files]]
+file = "resourcepacks/awebo/assets/minecraft/textures/entity/chicken/chicken_warm.png"
+hash = "12f9a9ecea3a6611ace73d0a67e650f9d332f24690ed724c01e13946570a7299"
+
+[[files]]
+file = "resourcepacks/awebo/pack.mcmeta"
+hash = "453936caec5efc59fe1bc4027988b4426e563ce4d308df34076ba9a4e7cda6af"
+
+[[files]]
+file = "resourcepacks/awebo/pack.png"
+hash = "20d879eba4b25898f924e453f570174b0ef461e8aec2e433fcc55fd056649a45"
