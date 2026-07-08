@@ -1,0 +1,13 @@
+name = "Loadstone - Chunk Loader"
+filename = "loadstone-3.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/2UT1ynXh/versions/sikTvnjB/loadstone-3.0.jar"
+hash-format = "sha512"
+hash = "f9345268daa7abb1e5d595941243fef4daeb2e40f3f34cea4cdb800174af01768e5d3fd7d4241692fbb526c36ae9fc45cf49d66636f208a7e1dd0594f56db82f"
+
+[update]
+[update.modrinth]
+mod-id = "2UT1ynXh"
+version = "sikTvnjB"

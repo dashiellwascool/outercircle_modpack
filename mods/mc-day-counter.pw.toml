@@ -1,0 +1,13 @@
+name = "Day Counter"
+filename = "day-counter-2.2.0+mc26.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/gZOTEPbp/versions/Jp9GyAz3/day-counter-2.2.0%2Bmc26.2.jar"
+hash-format = "sha512"
+hash = "e4afd1907349283c0c942bebebc268ee50129e8f90219ba04da5152d2e5be08141dd546c66ff79f7a164421a8fd04eda17a040d268b592fe353a8370a4910328"
+
+[update]
+[update.modrinth]
+mod-id = "gZOTEPbp"
+version = "Jp9GyAz3"

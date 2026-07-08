@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": "minecraft:stick",
+    "P": "minecraft:stone_pressure_plate",
+    "X": "minecraft:iron_nugget"
+  },
+  "pattern": [
+    "X X",
+    "X#X",
+    "XPX"
+  ],
+  "result": {
+    "count": 4,
+    "id": "minecraft:detector_rail"
+  },
+  "show_notification": true
+}

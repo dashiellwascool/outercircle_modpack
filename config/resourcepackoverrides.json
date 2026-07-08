@@ -1,0 +1,19 @@
+{
+  "schema_version": "2",
+  "default_overrides": {
+    "force_compatible": true
+  },
+  "default_packs": [
+  ],
+  "pack_overrides": {
+    "required": [
+      "file/awebo"
+    ],
+    "$$required": {
+      "required": true,
+      "fixed_position": true,
+      "default_position": "TOP",
+      "force_compatible": true
+    }
+  }
+}

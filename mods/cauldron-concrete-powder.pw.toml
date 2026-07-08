@@ -1,0 +1,13 @@
+name = "Cauldron Concrete Powder"
+filename = "CauldronConcretePowder_fabric_mod.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/sKa9BOA6/versions/GFfht8Yt/CauldronConcretePowder_fabric_mod.jar"
+hash-format = "sha512"
+hash = "8d31f933e2df2922a7fbc0e7b359c6f8a1102b651436621362da686ab29da48adacad1ad05dda17c10d9aede92670614f71bf81c993f172c2547585f415f2481"
+
+[update]
+[update.modrinth]
+mod-id = "sKa9BOA6"
+version = "GFfht8Yt"
