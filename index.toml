@@ -15,7 +15,7 @@ metafile = true
 
 [[files]]
 file = "mods/audaki-cart-engine.pw.toml"
-hash = "043a472ca1a4dbd32b91846f25d0886bab94828deca2c3e1ddac3ce73949f3b8"
+hash = "7183f587a72430e958d9c5bee121c50e5f1ffceb5d16122103123db1a6b36f75"
 metafile = true
 
 [[files]]

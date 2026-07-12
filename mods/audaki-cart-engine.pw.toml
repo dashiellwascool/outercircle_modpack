@@ -1,6 +1,6 @@
 name = "Audaki Cart Engine (Faster Minecarts)"
 filename = "ACE_mc26.2-5.0.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/V8qsCwta/versions/xnXxitQi/ACE_mc26.2-5.0.1.jar"

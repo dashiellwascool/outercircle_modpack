@@ -1,12 +1,12 @@
 name = "Outer Circle Modpack"
 author = "dashiellwascool"
-version = "1.0.0"
+version = "1.0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "c116c2109d87667a3bbbc9ea4d54c073f117f22b16b9b59ee9dbc5b9068e54fb"
+hash = "0de76154162bb5d89d4b0ce0690675c9a4dc8d19b6acb107d27f917f1b8fcda2"
 
 [versions]
 fabric = "0.19.3"
