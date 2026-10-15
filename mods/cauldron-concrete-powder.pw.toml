@@ -3,11 +3,11 @@ filename = "CauldronConcretePowder_fabric_mod.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/sKa9BOA6/versions/u6oXSetX/CauldronConcretePowder_fabric_mod.jar"
+url = "https://cdn.modrinth.com/data/sKa9BOA6/versions/LTn67ddb/CauldronConcretePowder_fabric_mod.jar"
 hash-format = "sha512"
-hash = "e733fbaac35e27aac474c2d10dd885dd4c5436efa6772df14cf6d36d7322c08123d5baa5f128768bc25e02aefef8f16bb636e311df9a940f7fad8a2d20e19296"
+hash = "1461678b701cdba37bcc3f8980f606502274abeb1346a91651b325e84854e0e26ec7cf70aeda1bb0a98beb2cc5e4ce997f32a468ac09a431901c501df2b3bbeb"
 
 [update]
 [update.modrinth]
 mod-id = "sKa9BOA6"
-version = "u6oXSetX"
+version = "LTn67ddb"
